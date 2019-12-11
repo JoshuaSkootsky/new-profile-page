@@ -1,0 +1,3 @@
+Some words go here.
+This is the first file from Foundations.
+This is a simple sample for demonstrating a Git workflow.
